@@ -36,8 +36,8 @@ const int rottaryEn = 8;
 
 // Your WiFi credentials.
 // Set password to "" for open networks.
-//char ssid[] = "cosmote1";
-//char pass[] = "cosm19ote91!A";
+//char ssid[] = "##########";
+//char pass[] = "##########";
 
 
 void setup()
